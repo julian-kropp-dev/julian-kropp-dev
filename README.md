@@ -5,9 +5,9 @@
 
 - 👨🏻‍🎓 bachelor student
 - 🗣 I like to collaborate with other people 
-- 🏁 2022 goals: Contribute more high quality code to my GitHub 
+- 🏁 2023 goals: Contribute more high quality code to my GitHub 
 - 🧠 I'm a creative guy 
-- 📚 I'm currently learning Java 
+- 📚 I'm currently improving my Java skills
 
 ### Connect with me:
 - 📧 julian.kropp@uol.de
@@ -16,4 +16,5 @@
 - ☕️ Java with IntelliJ IDE
 - 🐍 Python with PyCharm IDE and Visual Studio Code
 - 🖥 Terminal (I currently use iTerm)
+- JIRA, Confluence and Bitbucket
 - 📂 Git and Github
